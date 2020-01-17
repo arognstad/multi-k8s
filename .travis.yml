@@ -1,4 +1,5 @@
 sudo: required
+endpoint: https://api.travis-ci.com/
 services:
     - docker
 env:
